@@ -1,0 +1,5 @@
+teamname = "rockstars"
+region = "eu-west-1"
+stackname = "small stack"
+instancetype = "t2.small"
+env = "dev"
