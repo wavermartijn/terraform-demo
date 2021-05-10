@@ -1,0 +1,7 @@
+teamname = "rockstars-prod"
+region = "eu-west-1"
+stackname = "small stack"
+instancetype = "t2.small"
+env = "prod"
+route53_zoneid = "Z09336113V7JQ1DGESXYI"
+dnsname = "rs-test1-prod.decentwave.net"
